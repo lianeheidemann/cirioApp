@@ -84,5 +84,7 @@ lib/
 │       └── services/
 │           └── location_service.dart
 │
-└── main.dart<img width="542" height="1218" alt="cirio2" src="https://github.com/user-attachments/assets/132b1e6f-7b2f-4337-9b2d-004b5b75a997" />
+└── main.dart
+
+<img width="542" height="1218" alt="cirio2" src="https://github.com/user-attachments/assets/132b1e6f-7b2f-4337-9b2d-004b5b75a997" />
 <img width="546" height="1205" alt="cirio1" src="https://github.com/user-attachments/assets/4f567b2f-74dc-48b8-a548-dc188ac9dac1" />
